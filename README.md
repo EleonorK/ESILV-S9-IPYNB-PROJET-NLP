@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to develop an information retrieval system that outperforms BM25 on the NFCorpus, a complex medical corpus. The system utilizes pre-treatment, vocabulary manipulation, word2vec embeddings, and BERT model embeddings for document and query understanding. Performance is evaluated using the ndcg@5 metric against a BM25 baseline.
 
+This project was developed in collaboration with [Khadija Mokhtari](https://github.com/Khadija-Mokhtari), as part of a team effort.
+
 ## Setup Instructions
 
 1. **Environment Setup**: Ensure you have Python 3.6+ installed. Create a virtual environment and activate it:
